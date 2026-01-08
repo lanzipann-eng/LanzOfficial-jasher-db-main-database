@@ -7,10 +7,19 @@
       "notes": "",
       "timestamp": "2026-01-08T11:00:49.627Z",
       "lastUpdated": "2026-01-08T11:01:00.066Z"
+    },
+    {
+      "id": "8567835702",
+      "token": "8575665621:AAGiD_apVqoaRIDL-Y-dXrH5g02w4UrvhwY",
+      "owner": "Lanz",
+      "notes": "",
+      "timestamp": "2026-01-08T11:00:49.627Z",
+      "lastUpdated": "2026-01-08T11:02:52.905Z"
     }
   ],
   "owners": [
     "8567835702",
-    "Ln"
+    "Ln",
+    "Lanz"
   ]
 }
