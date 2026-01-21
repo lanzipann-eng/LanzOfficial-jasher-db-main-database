@@ -6,7 +6,7 @@
   "owner_name": "Lanz",
   "script_name": "JASHER BOT V2",
   "protection_version": "1.0",
-  "last_updated": "2026-01-21T16:25:37+00:00",
+  "last_updated": "2026-01-21T16:26:29+00:00",
   "authorized_ips": [],
   "license_key": "JASHER-VIP-2024-LANZ",
   "features": {
@@ -26,5 +26,16 @@
       "status": "active"
     }
   ],
-  "version": "2.0"
+  "version": "2.0",
+  "idtele": [
+    {
+      "idtele": 8567899702,
+      "package_id": 2,
+      "telegram_id": 8567885702,
+      "added_by": 8567835702,
+      "package_owner": 8567885702,
+      "added_at": "2026-01-21T16:26:29+00:00",
+      "status": "active"
+    }
+  ]
 }
