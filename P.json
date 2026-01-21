@@ -3,13 +3,15 @@
     "2": {
       "id": "2",
       "tokens": [
-        "U2FsdGVkX1+tm/wgHEmP1Eq91o7dze/XPliy37ldh4VX2Tt+Sf6CJF1O/sI0yjSJvwAs54Bs/IpVfoLawAbnqg=="
+        "U2FsdGVkX1+tm/wgHEmP1Eq91o7dze/XPliy37ldh4VX2Tt+Sf6CJF1O/sI0yjSJvwAs54Bs/IpVfoLawAbnqg==",
+        "U2FsdGVkX1+5HzKlbaBzet0I9uQjHlj/ZTNHm9IHchDd1mrv2OzOvOfJeiJAxeIPr/ZGM81nvXBp1myNEx91dA=="
       ],
       "idtele": [
         "8567835702"
       ],
       "ownerTele": "8567835702",
-      "createdAt": "2026-01-21T23:28:30.980Z"
+      "createdAt": "2026-01-21T23:28:30.980Z",
+      "lastUpdated": "2026-01-21T23:41:09.429Z"
     }
   },
   "premiumUsers": [],
