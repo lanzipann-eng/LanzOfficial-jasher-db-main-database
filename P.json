@@ -1,5 +1,15 @@
 {
-  "packages": {},
+  "packages": {
+    "2": {
+      "id": "2",
+      "tokens": [
+        "U2FsdGVkX1+tm/wgHEmP1Eq91o7dze/XPliy37ldh4VX2Tt+Sf6CJF1O/sI0yjSJvwAs54Bs/IpVfoLawAbnqg=="
+      ],
+      "idtele": [],
+      "ownerTele": "8567835702",
+      "createdAt": "2026-01-21T23:28:30.980Z"
+    }
+  },
   "premiumUsers": [],
   "config": {
     "maxTokens": 10,
