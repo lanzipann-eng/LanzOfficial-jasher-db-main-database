@@ -1,31 +1,8 @@
 {
-  "bot_token": "8593224073:AAEfvu25P_RuSjvOXBn5rOEWp26MzO8ESug",
-  "allowed_ids": [
-    8567835702
-  ],
-  "owner_name": "Lanz",
-  "script_name": "JASHER BOT V2",
-  "protection_version": "1.0",
-  "last_updated": "2026-01-21T16:31:23+00:00",
-  "authorized_ips": [],
-  "license_key": "JASHER-VIP-2024-LANZ",
-  "features": {
-    "whatsapp_attack": true,
-    "doxing_system": true,
-    "tiktok_downloader": true,
-    "auto_backup": true
-  },
-  "tokens": [
-    {
-      "token": "8025178270:AAF9iWyftRg1tVsqAhZRCRHOTBD21PKoqng",
-      "package_id": 2,
-      "telegram_id": 8567835702,
-      "added_by": 8567835702,
-      "package_owner": 8567835702,
-      "added_at": "2026-01-21T16:31:23+00:00",
-      "status": "active"
-    }
-  ],
-  "version": "2.0",
-  "idtele": []
+  "packages": {},
+  "premiumUsers": [],
+  "config": {
+    "maxTokens": 10,
+    "maxIdtele": 5
+  }
 }
