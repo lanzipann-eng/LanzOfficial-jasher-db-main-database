@@ -1,15 +1,17 @@
+
 {
-  "tokens": [
-    {
-      "id": "8567835702",
-      "token": "8575665621:AAGiD_apVqoaRIDL-Y-dXrH5g02w4UrvhwY",
-      "owner": "Asep",
-      "notes": "",
-      "timestamp": "2026-01-09T12:13:51.248Z",
-      "lastUpdated": "2026-01-09T12:13:51.250Z"
-    }
-  ],
-  "owners": [
-    "Asep"
-  ]
+  "bot_token": "8593224073:AAEfvu25P_RuSjvOXBn5rOEWp26MzO8ESug",
+  "allowed_ids": [8567835702],
+  "owner_name": "Lanz",
+  "script_name": "JASHER BOT V2",
+  "protection_version": "1.0",
+  "last_updated": "2024-01-20",
+  "authorized_ips": [],
+  "license_key": "JASHER-VIP-2024-LANZ",
+  "features": {
+    "whatsapp_attack": true,
+    "doxing_system": true,
+    "tiktok_downloader": true,
+    "auto_backup": true
+  }
 }
