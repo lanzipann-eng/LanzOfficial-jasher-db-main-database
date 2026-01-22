@@ -2,18 +2,18 @@
   "metadata": {
     "version": "2.0",
     "creator": "@LanzOffiicial",
-    "last_updated": "2026-01-22T07:09:01.998Z",
+    "last_updated": "2026-01-22T07:25:38.207Z",
     "total_packages": 1,
     "total_premium": 0
   },
   "packages": {
-    "4": {
-      "id": "4",
-      "token_bot": "8567835702 8421222157:AAFHtUE9H6zyOE-jH-3qOq0s6L7Kf3OYJwo",
+    "1": {
+      "id": "1",
+      "token_bot": "8421222157:AAFHtUE9H6zyOE-jH-3qOq0s6L7Kf3OYJwo",
       "id_tele": "8567835702",
-      "package_name": "5",
-      "created_at": "2026-01-22T07:09:01.998Z",
-      "updated_at": "2026-01-22T07:09:01.998Z",
+      "package_name": "1",
+      "created_at": "2026-01-22T07:25:38.207Z",
+      "updated_at": "2026-01-22T07:25:38.207Z",
       "creator": "web_dashboard"
     }
   },
