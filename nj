@@ -1,0 +1,75 @@
+{
+  "packages": {
+    "1": {
+      "ID": "1",
+      "nama": "lanz owner",
+      "nama_tele": "lanz",
+      "token_bot": "8593224073:AAEfvu25P_RuSjvOXBn5rOEWp26MzO8ESug",
+      "id_tele": "8567835702"
+    },
+    "2": {
+      "ID": "2",
+      "nama": "",
+      "nama_tele": "",
+      "token_bot": "",
+      "id_tele": ""
+    },
+    "3": {
+      "ID": "3",
+      "nama": "",
+      "nama_tele": "",
+      "token_bot": "",
+      "id_tele": ""
+    },
+    "4": {
+      "ID": "4",
+      "nama": "",
+      "nama_tele": "",
+      "token_bot": "",
+      "id_tele": ""
+    },
+    "5": {
+      "ID": "5",
+      "nama": "",
+      "nama_tele": "",
+      "token_bot": "",
+      "id_tele": ""
+    },
+    "6": {
+      "ID": "6",
+      "nama": "",
+      "nama_tele": "",
+      "token_bot": "",
+      "id_tele": ""
+    },
+    "7": {
+      "ID": "7",
+      "nama": "",
+      "nama_tele": "",
+      "token_bot": "",
+      "id_tele": ""
+    },
+    "8": {
+      "ID": "8",
+      "nama": "",
+      "nama_tele": "",
+      "token_bot": "",
+      "id_tele": ""
+    },
+    "9": {
+      "ID": "9",
+      "nama": "",
+      "nama_tele": "",
+      "token_bot": "",
+      "id_tele": ""
+    },
+    "10": {
+      "ID": "10",
+      "nama": "",
+      "nama_tele": "",
+      "token_bot": "",
+      "id_tele": ""
+    }
+  },
+  "allowed_ids": [8567835702]
+}
