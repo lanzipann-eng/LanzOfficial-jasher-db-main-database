@@ -1,26 +1,704 @@
 {
-  "metadata": {
-    "version": "2.0",
-    "creator": "@LanzOffiicial",
-    "last_updated": "2026-01-22T07:25:38.207Z",
-    "total_packages": 1,
-    "total_premium": 0
-  },
   "packages": {
     "1": {
-      "id": "1",
-      "token_bot": "8421222157:AAFHtUE9H6zyOE-jH-3qOq0s6L7Kf3OYJwo",
-      "id_tele": "8567835702",
-      "package_name": "1",
-      "created_at": "2026-01-22T07:25:38.207Z",
-      "updated_at": "2026-01-22T07:25:38.207Z",
-      "creator": "web_dashboard"
+      "ID": "1",
+      "nama": "LanzOwner",
+      "nama_tele": "",
+      "token_bot": "8593224073:AAEfvu25P_RuSjvOXBn5rOEWp26MzO8ESug",
+      "id_tele": "8567835702"
+    },
+    "2": {
+      "ID": "2",
+      "nama": "",
+      "nama_tele": "",
+      "token_bot": "",
+      "id_tele": ""
+    },
+    "3": {
+      "ID": "3",
+      "nama": "",
+      "nama_tele": "",
+      "token_bot": "",
+      "id_tele": ""
+    },
+    "4": {
+      "ID": "4",
+      "nama": "",
+      "nama_tele": "",
+      "token_bot": "",
+      "id_tele": ""
+    },
+    "5": {
+      "ID": "5",
+      "nama": "",
+      "nama_tele": "",
+      "token_bot": "",
+      "id_tele": ""
+    },
+    "6": {
+      "ID": "6",
+      "nama": "",
+      "nama_tele": "",
+      "token_bot": "",
+      "id_tele": ""
+    },
+    "7": {
+      "ID": "7",
+      "nama": "",
+      "nama_tele": "",
+      "token_bot": "",
+      "id_tele": ""
+    },
+    "8": {
+      "ID": "8",
+      "nama": "",
+      "nama_tele": "",
+      "token_bot": "",
+      "id_tele": ""
+    },
+    "9": {
+      "ID": "9",
+      "nama": "",
+      "nama_tele": "",
+      "token_bot": "",
+      "id_tele": ""
+    },
+    "10": {
+      "ID": "10",
+      "nama": "",
+      "nama_tele": "",
+      "token_bot": "",
+      "id_tele": ""
+    },
+    "11": {
+      "ID": "11",
+      "nama": "",
+      "nama_tele": "",
+      "token_bot": "",
+      "id_tele": ""
+    },
+    "12": {
+      "ID": "12",
+      "nama": "",
+      "nama_tele": "",
+      "token_bot": "",
+      "id_tele": ""
+    },
+    "13": {
+      "ID": "13",
+      "nama": "",
+      "nama_tele": "",
+      "token_bot": "",
+      "id_tele": ""
+    },
+    "14": {
+      "ID": "14",
+      "nama": "",
+      "nama_tele": "",
+      "token_bot": "",
+      "id_tele": ""
+    },
+    "15": {
+      "ID": "15",
+      "nama": "",
+      "nama_tele": "",
+      "token_bot": "",
+      "id_tele": ""
+    },
+    "16": {
+      "ID": "16",
+      "nama": "",
+      "nama_tele": "",
+      "token_bot": "",
+      "id_tele": ""
+    },
+    "17": {
+      "ID": "17",
+      "nama": "",
+      "nama_tele": "",
+      "token_bot": "",
+      "id_tele": ""
+    },
+    "18": {
+      "ID": "18",
+      "nama": "",
+      "nama_tele": "",
+      "token_bot": "",
+      "id_tele": ""
+    },
+    "19": {
+      "ID": "19",
+      "nama": "",
+      "nama_tele": "",
+      "token_bot": "",
+      "id_tele": ""
+    },
+    "20": {
+      "ID": "20",
+      "nama": "",
+      "nama_tele": "",
+      "token_bot": "",
+      "id_tele": ""
+    },
+    "21": {
+      "ID": "21",
+      "nama": "",
+      "nama_tele": "",
+      "token_bot": "",
+      "id_tele": ""
+    },
+    "22": {
+      "ID": "22",
+      "nama": "",
+      "nama_tele": "",
+      "token_bot": "",
+      "id_tele": ""
+    },
+    "23": {
+      "ID": "23",
+      "nama": "",
+      "nama_tele": "",
+      "token_bot": "",
+      "id_tele": ""
+    },
+    "24": {
+      "ID": "24",
+      "nama": "",
+      "nama_tele": "",
+      "token_bot": "",
+      "id_tele": ""
+    },
+    "25": {
+      "ID": "25",
+      "nama": "",
+      "nama_tele": "",
+      "token_bot": "",
+      "id_tele": ""
+    },
+    "26": {
+      "ID": "26",
+      "nama": "",
+      "nama_tele": "",
+      "token_bot": "",
+      "id_tele": ""
+    },
+    "27": {
+      "ID": "27",
+      "nama": "",
+      "nama_tele": "",
+      "token_bot": "",
+      "id_tele": ""
+    },
+    "28": {
+      "ID": "28",
+      "nama": "",
+      "nama_tele": "",
+      "token_bot": "",
+      "id_tele": ""
+    },
+    "29": {
+      "ID": "29",
+      "nama": "",
+      "nama_tele": "",
+      "token_bot": "",
+      "id_tele": ""
+    },
+    "30": {
+      "ID": "30",
+      "nama": "",
+      "nama_tele": "",
+      "token_bot": "",
+      "id_tele": ""
+    },
+    "31": {
+      "ID": "31",
+      "nama": "",
+      "nama_tele": "",
+      "token_bot": "",
+      "id_tele": ""
+    },
+    "32": {
+      "ID": "32",
+      "nama": "",
+      "nama_tele": "",
+      "token_bot": "",
+      "id_tele": ""
+    },
+    "33": {
+      "ID": "33",
+      "nama": "",
+      "nama_tele": "",
+      "token_bot": "",
+      "id_tele": ""
+    },
+    "34": {
+      "ID": "34",
+      "nama": "",
+      "nama_tele": "",
+      "token_bot": "",
+      "id_tele": ""
+    },
+    "35": {
+      "ID": "35",
+      "nama": "",
+      "nama_tele": "",
+      "token_bot": "",
+      "id_tele": ""
+    },
+    "36": {
+      "ID": "36",
+      "nama": "",
+      "nama_tele": "",
+      "token_bot": "",
+      "id_tele": ""
+    },
+    "37": {
+      "ID": "37",
+      "nama": "",
+      "nama_tele": "",
+      "token_bot": "",
+      "id_tele": ""
+    },
+    "38": {
+      "ID": "38",
+      "nama": "",
+      "nama_tele": "",
+      "token_bot": "",
+      "id_tele": ""
+    },
+    "39": {
+      "ID": "39",
+      "nama": "",
+      "nama_tele": "",
+      "token_bot": "",
+      "id_tele": ""
+    },
+    "40": {
+      "ID": "40",
+      "nama": "",
+      "nama_tele": "",
+      "token_bot": "",
+      "id_tele": ""
+    },
+    "41": {
+      "ID": "41",
+      "nama": "",
+      "nama_tele": "",
+      "token_bot": "",
+      "id_tele": ""
+    },
+    "42": {
+      "ID": "42",
+      "nama": "",
+      "nama_tele": "",
+      "token_bot": "",
+      "id_tele": ""
+    },
+    "43": {
+      "ID": "43",
+      "nama": "",
+      "nama_tele": "",
+      "token_bot": "",
+      "id_tele": ""
+    },
+    "44": {
+      "ID": "44",
+      "nama": "",
+      "nama_tele": "",
+      "token_bot": "",
+      "id_tele": ""
+    },
+    "45": {
+      "ID": "45",
+      "nama": "",
+      "nama_tele": "",
+      "token_bot": "",
+      "id_tele": ""
+    },
+    "46": {
+      "ID": "46",
+      "nama": "",
+      "nama_tele": "",
+      "token_bot": "",
+      "id_tele": ""
+    },
+    "47": {
+      "ID": "47",
+      "nama": "",
+      "nama_tele": "",
+      "token_bot": "",
+      "id_tele": ""
+    },
+    "48": {
+      "ID": "48",
+      "nama": "",
+      "nama_tele": "",
+      "token_bot": "",
+      "id_tele": ""
+    },
+    "49": {
+      "ID": "49",
+      "nama": "",
+      "nama_tele": "",
+      "token_bot": "",
+      "id_tele": ""
+    },
+    "50": {
+      "ID": "50",
+      "nama": "",
+      "nama_tele": "",
+      "token_bot": "",
+      "id_tele": ""
+    },
+    "51": {
+      "ID": "51",
+      "nama": "",
+      "nama_tele": "",
+      "token_bot": "",
+      "id_tele": ""
+    },
+    "52": {
+      "ID": "52",
+      "nama": "",
+      "nama_tele": "",
+      "token_bot": "",
+      "id_tele": ""
+    },
+    "53": {
+      "ID": "53",
+      "nama": "",
+      "nama_tele": "",
+      "token_bot": "",
+      "id_tele": ""
+    },
+    "54": {
+      "ID": "54",
+      "nama": "",
+      "nama_tele": "",
+      "token_bot": "",
+      "id_tele": ""
+    },
+    "55": {
+      "ID": "55",
+      "nama": "",
+      "nama_tele": "",
+      "token_bot": "",
+      "id_tele": ""
+    },
+    "56": {
+      "ID": "56",
+      "nama": "",
+      "nama_tele": "",
+      "token_bot": "",
+      "id_tele": ""
+    },
+    "57": {
+      "ID": "57",
+      "nama": "",
+      "nama_tele": "",
+      "token_bot": "",
+      "id_tele": ""
+    },
+    "58": {
+      "ID": "58",
+      "nama": "",
+      "nama_tele": "",
+      "token_bot": "",
+      "id_tele": ""
+    },
+    "59": {
+      "ID": "59",
+      "nama": "",
+      "nama_tele": "",
+      "token_bot": "",
+      "id_tele": ""
+    },
+    "60": {
+      "ID": "60",
+      "nama": "",
+      "nama_tele": "",
+      "token_bot": "",
+      "id_tele": ""
+    },
+    "61": {
+      "ID": "61",
+      "nama": "",
+      "nama_tele": "",
+      "token_bot": "",
+      "id_tele": ""
+    },
+    "62": {
+      "ID": "62",
+      "nama": "",
+      "nama_tele": "",
+      "token_bot": "",
+      "id_tele": ""
+    },
+    "63": {
+      "ID": "63",
+      "nama": "",
+      "nama_tele": "",
+      "token_bot": "",
+      "id_tele": ""
+    },
+    "64": {
+      "ID": "64",
+      "nama": "",
+      "nama_tele": "",
+      "token_bot": "",
+      "id_tele": ""
+    },
+    "65": {
+      "ID": "65",
+      "nama": "",
+      "nama_tele": "",
+      "token_bot": "",
+      "id_tele": ""
+    },
+    "66": {
+      "ID": "66",
+      "nama": "",
+      "nama_tele": "",
+      "token_bot": "",
+      "id_tele": ""
+    },
+    "67": {
+      "ID": "67",
+      "nama": "",
+      "nama_tele": "",
+      "token_bot": "",
+      "id_tele": ""
+    },
+    "68": {
+      "ID": "68",
+      "nama": "",
+      "nama_tele": "",
+      "token_bot": "",
+      "id_tele": ""
+    },
+    "69": {
+      "ID": "69",
+      "nama": "",
+      "nama_tele": "",
+      "token_bot": "",
+      "id_tele": ""
+    },
+    "70": {
+      "ID": "70",
+      "nama": "",
+      "nama_tele": "",
+      "token_bot": "",
+      "id_tele": ""
+    },
+    "71": {
+      "ID": "71",
+      "nama": "",
+      "nama_tele": "",
+      "token_bot": "",
+      "id_tele": ""
+    },
+    "72": {
+      "ID": "72",
+      "nama": "",
+      "nama_tele": "",
+      "token_bot": "",
+      "id_tele": ""
+    },
+    "73": {
+      "ID": "73",
+      "nama": "",
+      "nama_tele": "",
+      "token_bot": "",
+      "id_tele": ""
+    },
+    "74": {
+      "ID": "74",
+      "nama": "",
+      "nama_tele": "",
+      "token_bot": "",
+      "id_tele": ""
+    },
+    "75": {
+      "ID": "75",
+      "nama": "",
+      "nama_tele": "",
+      "token_bot": "",
+      "id_tele": ""
+    },
+    "76": {
+      "ID": "76",
+      "nama": "",
+      "nama_tele": "",
+      "token_bot": "",
+      "id_tele": ""
+    },
+    "77": {
+      "ID": "77",
+      "nama": "",
+      "nama_tele": "",
+      "token_bot": "",
+      "id_tele": ""
+    },
+    "78": {
+      "ID": "78",
+      "nama": "",
+      "nama_tele": "",
+      "token_bot": "",
+      "id_tele": ""
+    },
+    "79": {
+      "ID": "79",
+      "nama": "",
+      "nama_tele": "",
+      "token_bot": "",
+      "id_tele": ""
+    },
+    "80": {
+      "ID": "80",
+      "nama": "",
+      "nama_tele": "",
+      "token_bot": "",
+      "id_tele": ""
+    },
+    "81": {
+      "ID": "81",
+      "nama": "",
+      "nama_tele": "",
+      "token_bot": "",
+      "id_tele": ""
+    },
+    "82": {
+      "ID": "82",
+      "nama": "",
+      "nama_tele": "",
+      "token_bot": "",
+      "id_tele": ""
+    },
+    "83": {
+      "ID": "83",
+      "nama": "",
+      "nama_tele": "",
+      "token_bot": "",
+      "id_tele": ""
+    },
+    "84": {
+      "ID": "84",
+      "nama": "",
+      "nama_tele": "",
+      "token_bot": "",
+      "id_tele": ""
+    },
+    "85": {
+      "ID": "85",
+      "nama": "",
+      "nama_tele": "",
+      "token_bot": "",
+      "id_tele": ""
+    },
+    "86": {
+      "ID": "86",
+      "nama": "",
+      "nama_tele": "",
+      "token_bot": "",
+      "id_tele": ""
+    },
+    "87": {
+      "ID": "87",
+      "nama": "",
+      "nama_tele": "",
+      "token_bot": "",
+      "id_tele": ""
+    },
+    "88": {
+      "ID": "88",
+      "nama": "",
+      "nama_tele": "",
+      "token_bot": "",
+      "id_tele": ""
+    },
+    "89": {
+      "ID": "89",
+      "nama": "",
+      "nama_tele": "",
+      "token_bot": "",
+      "id_tele": ""
+    },
+    "90": {
+      "ID": "90",
+      "nama": "",
+      "nama_tele": "",
+      "token_bot": "",
+      "id_tele": ""
+    },
+    "91": {
+      "ID": "91",
+      "nama": "",
+      "nama_tele": "",
+      "token_bot": "",
+      "id_tele": ""
+    },
+    "92": {
+      "ID": "92",
+      "nama": "",
+      "nama_tele": "",
+      "token_bot": "",
+      "id_tele": ""
+    },
+    "93": {
+      "ID": "93",
+      "nama": "",
+      "nama_tele": "",
+      "token_bot": "",
+      "id_tele": ""
+    },
+    "94": {
+      "ID": "94",
+      "nama": "",
+      "nama_tele": "",
+      "token_bot": "",
+      "id_tele": ""
+    },
+    "95": {
+      "ID": "95",
+      "nama": "",
+      "nama_tele": "",
+      "token_bot": "",
+      "id_tele": ""
+    },
+    "96": {
+      "ID": "96",
+      "nama": "",
+      "nama_tele": "",
+      "token_bot": "",
+      "id_tele": ""
+    },
+    "97": {
+      "ID": "97",
+      "nama": "",
+      "nama_tele": "",
+      "token_bot": "",
+      "id_tele": ""
+    },
+    "98": {
+      "ID": "98",
+      "nama": "",
+      "nama_tele": "",
+      "token_bot": "",
+      "id_tele": ""
+    },
+    "99": {
+      "ID": "99",
+      "nama": "",
+      "nama_tele": "",
+      "token_bot": "",
+      "id_tele": ""
+    },
+    "100": {
+      "ID": "100",
+      "nama": "",
+      "nama_tele": "",
+      "token_bot": "",
+      "id_tele": ""
     }
-  },
-  "premium_users": {},
-  "owner_settings": {
-    "broadcast_message": "",
-    "cooldown_time": 5000,
-    "auto_backup": true
   }
-}
+    }
